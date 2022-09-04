@@ -1,4 +1,4 @@
-lspublic class BeerSong {
+public class BeerSong {
     public static void main(String[] args) {
 
         // variables
