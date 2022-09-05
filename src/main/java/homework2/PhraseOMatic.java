@@ -1,3 +1,4 @@
+package homework2;
 
 public class PhraseOMatic {
     public static void main(String[] args) {
